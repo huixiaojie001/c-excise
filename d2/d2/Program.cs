@@ -10,7 +10,7 @@ namespace d2
     {
         static void Main(string[] args)
         {
-            int year = 2020;//年份
+            int year = 2019;//年份
             Console.WriteLine(year % 4);//求年份除以4的余数
         }
     }
