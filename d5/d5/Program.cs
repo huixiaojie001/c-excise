@@ -19,8 +19,8 @@ namespace d5
              * ||是逻辑或即一边有真即为真，两边同假才是假
              */
 
-            int age = 4;
-            if(age<6 || age>60)
+            int age = 6;
+            if(age<6 || age>65)
             {
                 Console.WriteLine ("请坐爱心座");
             }
