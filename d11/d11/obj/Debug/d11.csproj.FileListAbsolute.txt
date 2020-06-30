@@ -1,0 +1,5 @@
+D:\code\c-excise\d11\d11\bin\Debug\d11.exe.config
+D:\code\c-excise\d11\d11\bin\Debug\d11.exe
+D:\code\c-excise\d11\d11\bin\Debug\d11.pdb
+D:\code\c-excise\d11\d11\obj\Debug\d11.exe
+D:\code\c-excise\d11\d11\obj\Debug\d11.pdb

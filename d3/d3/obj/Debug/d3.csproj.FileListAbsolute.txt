@@ -1,0 +1,5 @@
+D:\code\c-excise\d3\d3\bin\Debug\d3.exe.config
+D:\code\c-excise\d3\d3\bin\Debug\d3.exe
+D:\code\c-excise\d3\d3\bin\Debug\d3.pdb
+D:\code\c-excise\d3\d3\obj\Debug\d3.exe
+D:\code\c-excise\d3\d3\obj\Debug\d3.pdb

@@ -1,0 +1,5 @@
+D:\code\c-excise\d9\d9\bin\Debug\d9.exe.config
+D:\code\c-excise\d9\d9\bin\Debug\d9.exe
+D:\code\c-excise\d9\d9\bin\Debug\d9.pdb
+D:\code\c-excise\d9\d9\obj\Debug\d9.exe
+D:\code\c-excise\d9\d9\obj\Debug\d9.pdb
