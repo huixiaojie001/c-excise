@@ -11,7 +11,7 @@ namespace d2
         static void Main(string[] args)
         {
             int year = 2015;//年份
-            Console.WriteLine(year % 4);//求年份除以4的余数
+            Console.WriteLine(year % 5);//求年份除以4的余数
         }
     }
 }
