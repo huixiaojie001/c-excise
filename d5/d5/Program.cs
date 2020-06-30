@@ -18,6 +18,16 @@ namespace d5
              * &&是逻辑与即两边为真即为真，一边为假就算假
              * ||是逻辑或即一边有真即为真，两边同假才是假
              */
+
+            int age = 4;
+            if(age<6 || age>60)
+            {
+                Console.WriteLine ("请坐爱心座");
+            }
+            else 
+            {
+                Console.WriteLine("请坚持一下");
+            }
         }
     }
 }
