@@ -10,9 +10,9 @@ namespace d4
     {
         static void Main(string[] args)
         {
-            double x = 3.78;
+            double x = 3.5;
             int y = 4;
-            Console.Write(x > y);
+            Console.WriteLine(x > y);
             /*
              * >大于
              * <小于
