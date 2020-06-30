@@ -3,3 +3,4 @@ D:\code\c-excise\d2\d2\bin\Debug\d2.exe
 D:\code\c-excise\d2\d2\bin\Debug\d2.pdb
 D:\code\c-excise\d2\d2\obj\Debug\d2.exe
 D:\code\c-excise\d2\d2\obj\Debug\d2.pdb
+D:\code\c-excise\d2\d2\obj\Debug\d2.csprojResolveAssemblyReference.cache
