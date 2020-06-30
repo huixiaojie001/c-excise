@@ -17,7 +17,7 @@ namespace d14
              * 如果不到 10000 元则"没有礼品"。
              * 使用多重 if 结构实现上述功能。
              */
-            double money = 40000.00;//存款金额
+            double money = 60000.00;//存款金额
             if(money >= 100000)
             {
                 Console.WriteLine("送一台微波炉");
