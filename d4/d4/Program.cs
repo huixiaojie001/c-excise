@@ -13,6 +13,14 @@ namespace d4
             double x = 3.5;
             int y = 3;
             Console.Write(x > y);
+            /*
+             * >大于
+             * <小于
+             * =等于
+             * ！=不等于
+             * <=小于等于
+             * >=大于等于
+             */
         }
     }
 }
