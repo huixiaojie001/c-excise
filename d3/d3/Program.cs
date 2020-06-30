@@ -11,12 +11,13 @@ namespace d3
         static void Main(string[] args)
         {
             int x = 5;
-            int y = 5;
+            int y = 4;
             int z = 5;
             x++;
+            y++;
             Console.Write(x);
             Console.Write(++y);
-            Console.Write(++z);
+            Console.WriteLine(++z);
         }
     }
 }
