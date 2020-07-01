@@ -1,0 +1,5 @@
+D:\code\c-excise\d33\d33\bin\Debug\d33.exe.config
+D:\code\c-excise\d33\d33\bin\Debug\d33.exe
+D:\code\c-excise\d33\d33\bin\Debug\d33.pdb
+D:\code\c-excise\d33\d33\obj\Debug\d33.exe
+D:\code\c-excise\d33\d33\obj\Debug\d33.pdb
