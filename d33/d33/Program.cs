@@ -13,7 +13,7 @@ namespace d33
             /*
              *  使用foreach() 结构，使得程序能够打印数组的所有元素。
              */
-            string[] t = new string[] { "CD", "ds", "fS", "fr", "WW" };
+            string[] t = new string[] { "CD", "bs", "fS", "fr", "WW" };
             foreach (string x in t)
             {
                 Console.Write(x + " ");
