@@ -1,1 +1,6 @@
 D:\code\c-excise\d30\d30\bin\Debug\d30.exe.config
+D:\code\c-excise\d30\d30\bin\Debug\d30.exe
+D:\code\c-excise\d30\d30\bin\Debug\d30.pdb
+D:\code\c-excise\d30\d30\obj\Debug\d30.csprojResolveAssemblyReference.cache
+D:\code\c-excise\d30\d30\obj\Debug\d30.exe
+D:\code\c-excise\d30\d30\obj\Debug\d30.pdb
