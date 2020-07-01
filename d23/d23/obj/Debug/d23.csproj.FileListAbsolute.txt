@@ -1,0 +1,5 @@
+D:\code\c-excise\d23\d23\bin\Debug\d23.exe.config
+D:\code\c-excise\d23\d23\bin\Debug\d23.exe
+D:\code\c-excise\d23\d23\bin\Debug\d23.pdb
+D:\code\c-excise\d23\d23\obj\Debug\d23.exe
+D:\code\c-excise\d23\d23\obj\Debug\d23.pdb
