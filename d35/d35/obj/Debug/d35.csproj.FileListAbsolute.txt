@@ -1,0 +1,6 @@
+D:\code\c-excise\d35\d35\bin\Debug\d35.exe.config
+D:\code\c-excise\d35\d35\bin\Debug\d35.exe
+D:\code\c-excise\d35\d35\bin\Debug\d35.pdb
+D:\code\c-excise\d35\d35\obj\Debug\d35.csprojResolveAssemblyReference.cache
+D:\code\c-excise\d35\d35\obj\Debug\d35.exe
+D:\code\c-excise\d35\d35\obj\Debug\d35.pdb
